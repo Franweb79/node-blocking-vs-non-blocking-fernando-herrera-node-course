@@ -1,0 +1,20 @@
+{
+  "name": "01.node-blocking-vs-non-blocking-fernando-herrera-node-course-main",
+  "version": "1.0.0",
+  "description": "Un pequeño demo para explicar la diferencia",
+  "main": "app-blocking.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "git push origin master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franweb79/node-blocking-vs-non-blocking-fernando-herrera-node-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Franweb79/node-blocking-vs-non-blocking-fernando-herrera-node-course/issues"
+  },
+  "homepage": "https://github.com/Franweb79/node-blocking-vs-non-blocking-fernando-herrera-node-course#readme"
+}
