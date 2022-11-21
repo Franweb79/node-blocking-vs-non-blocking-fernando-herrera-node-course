@@ -2,7 +2,8 @@ const { getUsuarioSync } = require('./usuarios/usuarios');
 
 console.log('Inicio de programa');
 console.time('inicio');
-
+console.time ('fuck');
+console.timeEnd("fuck");
 
 const usuario1 = getUsuarioSync( 1 );
 console.log('Usuario 1:', usuario1 );

@@ -5,7 +5,9 @@
   "main": "app-blocking.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "push": "git push origin master"
+    "push": "git push origin master",
+    "block": "node app-blocking.js",
+    "noblock": "node app-non-blocking.js"
   },
   "repository": {
     "type": "git",
